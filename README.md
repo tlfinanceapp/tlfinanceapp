@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tlfinanceapp
 - 👀 I’m interested in ...in cryptocurrency and block-chain product
-- 🌱 I’m currently learning ... how to build and how to code
+- 🌱 i and my team are currently building a project that would bring a change in the block/chain industry.
 - 💞️ I’m looking to collaborate on ...anyone advanced in coding and can write a smart contract to be deployed on multiple block-chain pls contact me.
 - 📫 How to reach me ... E-Mail: trucksandlogistics@tlfinance.app
 - 😄 Pronouns: ... Mr.
